@@ -19,4 +19,10 @@ for (i = 0; i <  letters.length; i++) {
 //
     console.log(letters[i]);
   }
-   var userText = document.getElementById("user-text");
+  var userGuess = document.getElementById("user-text");
+  var computerGuess = document.getElementById("computer guess");
+  if ((userGuess === "a") || (userGuess === "b") || (userGuess === "c") || (userGuess === "d") || (userGuess === "e") || (userGuess === "f") || (userGuess === "g") ||
+  (userGuess === "h") || (userGuess === "i") || (userGuess === "j") || (userGuess === "k") || (userGuess === "l") || (userGuess === "m" ) || (userGuess === "n") ||
+  (userGuess === "o") || (userGuess === "p") || (userGuess === "q") || (userGuess === "r") || (userGuess === "s") || (userGuess === "t") || (userGuess === "u") ||
+  (userGuess === "v") || (userGuess === "w") || (userGuess === "x") || (userGuess === "y") || (userGuess === "z")); 
+
