@@ -1,0 +1,18 @@
+index.html
+-header (done)
+-body(done)
+-form(done)
+-button(DONE)
+-counter display
+	-win, loses, remaining guesses
+javascript
+-create java that will randomly guess a letter
+	- create arrey of letters var letters - DONE
+	- user enters letter it will check for correct letter
+-user wins 
+	-set up a counter they win
+	-if win counter goes up one in wins colume
+-user loses
+	-set up counter for they lose
+-user guess left 
+	-count down for ever click
