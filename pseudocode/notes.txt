@@ -16,3 +16,5 @@ javascript
 	-set up counter for they lose
 -user guess left 
 	-count down for ever click
+
+Lesson 21 and 23 
