@@ -33,7 +33,8 @@ console.log(computerGuess)
   (userGuess === "v") || (userGuess === "w") || (userGuess === "x") || (userGuess === "y") || (userGuess === "z")); 
 
 function userGuess() {
-  document.getElementById("hello").innerHTML = "hello"
-};
-console.log()
+ 
+
+}
+
 
